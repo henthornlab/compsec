@@ -83,7 +83,7 @@
   - [Week 8](./pentesting/week8.md)
   - [Week 9](./pentesting/week9.md)
   - [Week 10](./pentesting/week10.md)
-  - [Cyber Killchain](./pentesting/killchain.md)
+  - [Cyber Kill Chain](./pentesting/killchain.md)
   - [MITRE ATT&CK](./pentesting/mitre.md)
 
 
